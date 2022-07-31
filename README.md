@@ -26,3 +26,4 @@ origin by kgns;
 7. 磨损值可直接输入指定值
 
 Modify by Bone;
+##更新了最新的中文皮肤
